@@ -76,3 +76,11 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 4. a Crate amp found in a closet.
 
 (Note: Try not to play at full volume. Eesh. I'm monitoring through Grados, so maybe you get it.)
+
+# Sources
+
+1. https://github.com/nerdfiles/Wept_Without_Wit_Source
+2. http://www.last.fm/music/Wept+Without+Wit
+3. http://soundcloud.com/nerdfiles
+
+
