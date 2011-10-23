@@ -8,6 +8,22 @@ These are explorations into the externalization of a supposed homogeneous organi
 
 It is not enough to say "self-taught"; these are sonic transliterations of self to public, undergone seemingly tragic loss and the bankruptcy of post-analytic reasoning. I have no interest in the guitar as a philosophical, paradigmatic project, with its normative claims, language games, and 138 different nail shapes.
 
+# Albums
+
+1. Death Rites (October 2010)
+
+    When the world grew intolerant of those
+    Who took to drink with the faint’st need for occasion,
+    We and they return’d to our quarters and consummat’d
+    Our wills through the pleasures of intoxicat’d introspection
+    Under pallid shadow and the dimly bell
+
+2. The Matters of Matter
+3. With Reflections Comes the Rent
+4. Languages
+5. "Rough Draft"
+6. A September Before the Winter (October 2011)
+
 # Instruments
 
 1. Oscar Schmidt OE30
