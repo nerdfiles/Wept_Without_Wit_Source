@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Memorable Rememberers (Kafke Version. Fuck you, Max Richter &#x2014; O what rooms Mothers must clean.)_data" version="1.3.0" audacityversion="1.3.12-beta" sel0="0.0000000000" sel1="69.3347845805" vpos="0" h="0.0000000000" zoom="13.7737501570" rate="44100">
+	<tags>
+		<tag name="id3v2" value="1"/>
+		<tag name="GENRE" value="Post-American Primitivism"/>
+		<tag name="ARTIST" value="Wept Without Wit"/>
+		<tag name="TITLE" value="Failing Faster"/>
+		<tag name="Full Name" value="Memorable Rememberers (Kafke Version. Fuck you, Max Richter &#x2014; O what rooms Mothers must clean.)"/>
+		<tag name="YEAR" value="2011"/>
+		<tag name="ALBUM" value="A September Before the Winter"/>
+	</tags>
+	<wavetrack name="Memorable Rememberers (Kafke Version. Fuck you, Max Richter &#x2014; O what rooms Mothers must clean.)" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="3057664">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f17.au" len="524288" min="-0.37793" max="0.387268" rms="0.011672"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000a4f.au" len="524288" min="-0.446045" max="0.574768" rms="0.031925"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000dd0.au" len="524288" min="-0.463806" max="0.601898" rms="0.044586"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e000063c.au" len="524288" min="-0.327911" max="0.374817" rms="0.042709"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000341.au" len="524288" min="-0.324005" max="0.243256" rms="0.007983"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e000033a.au" len="436224" min="-0.123993" max="0.139099" rms="0.006776"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

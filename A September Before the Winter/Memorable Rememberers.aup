@@ -1,0 +1,104 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Memorable Rememberers_data" version="1.3.0" audacityversion="1.3.12-beta" sel0="0.0000000000" sel1="72.4694784580" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100">
+	<tags>
+		<tag name="id3v2" value="1"/>
+		<tag name="GENRE" value="Post-American Primitivism"/>
+		<tag name="ALBUM" value="A September Before the Winter"/>
+		<tag name="TITLE" value="Memorable Rememberers (Kafke Version. Fuck you, Max Richter &#x2014; O what rooms Mothers must clean.)"/>
+		<tag name="YEAR" value="2011"/>
+		<tag name="ARTIST" value="Wept Without Wit"/>
+	</tags>
+	<wavetrack name="Memorable Rememberers" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3195904">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f1c.au" len="262144" min="-0.327454" max="0.239914" rms="0.042262"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000083a.au" len="262144" min="-0.546677" max="0.535217" rms="0.066952"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000a35.au" len="262144" min="-0.469482" max="0.488724" rms="0.108258"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e00001cb.au" len="262144" min="-0.782944" max="0.815826" rms="0.120418"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000a6f.au" len="262144" min="-0.811691" max="0.788773" rms="0.138561"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0000c56.au" len="262144" min="-0.69548" max="0.638397" rms="0.145249"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0000c33.au" len="262144" min="-0.65152" max="0.793167" rms="0.141357"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0000fb3.au" len="262144" min="-0.761368" max="0.97287" rms="0.113033"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000743.au" len="262144" min="-0.477814" max="0.489868" rms="0.087409"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0000ff0.au" len="262144" min="-0.641266" max="0.51297" rms="0.116629"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e0000f02.au" len="262144" min="-0.512512" max="0.489517" rms="0.108133"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e000062d.au" len="262144" min="-0.502136" max="0.492844" rms="0.090505"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0000b11.au" len="50176" min="-0.021027" max="0.018753" rms="0.004313"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Memorable Rememberers" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3195904">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000f1c.au" len="262144" min="-0.327454" max="0.239914" rms="0.042262"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000083a.au" len="262144" min="-0.546677" max="0.535217" rms="0.066952"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000a35.au" len="262144" min="-0.469482" max="0.488724" rms="0.108258"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e00001cb.au" len="262144" min="-0.782944" max="0.815826" rms="0.120418"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000a6f.au" len="262144" min="-0.811691" max="0.788773" rms="0.138561"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0000c56.au" len="262144" min="-0.69548" max="0.638397" rms="0.145249"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0000c33.au" len="262144" min="-0.65152" max="0.793167" rms="0.141357"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0000fb3.au" len="262144" min="-0.761368" max="0.97287" rms="0.113033"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000743.au" len="262144" min="-0.477814" max="0.489868" rms="0.087409"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0000ff0.au" len="262144" min="-0.641266" max="0.51297" rms="0.116629"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e0000f02.au" len="262144" min="-0.512512" max="0.489517" rms="0.108133"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e000062d.au" len="262144" min="-0.502136" max="0.492844" rms="0.090505"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0000b11.au" len="50176" min="-0.021027" max="0.018753" rms="0.004313"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

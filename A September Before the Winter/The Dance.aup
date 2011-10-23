@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="The Dance_data" version="1.3.0" audacityversion="1.3.12-beta" sel0="0.0000000000" sel1="78.6692063492" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100">
+	<tags>
+		<tag name="id3v2" value="1"/>
+		<tag name="GENRE" value="Post-American Primitivism"/>
+		<tag name="ARTIST" value="Wept Without Wit"/>
+		<tag name="TITLE" value="Failing Faster"/>
+		<tag name="YEAR" value="2011"/>
+		<tag name="ALBUM" value="A September Before the Winter"/>
+	</tags>
+	<wavetrack name="The Dance" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="3469312">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b06.au" len="524288" min="-0.674957" max="0.693787" rms="0.096436"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000095.au" len="524288" min="-0.813354" max="0.66629" rms="0.119478"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000df5.au" len="524288" min="-0.600098" max="0.684723" rms="0.119664"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0000117.au" len="524288" min="-0.698242" max="0.87439" rms="0.119683"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000fcf.au" len="524288" min="-0.55835" max="0.553772" rms="0.113497"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e000092f.au" len="524288" min="-0.651428" max="0.603058" rms="0.110516"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0000c8f.au" len="323584" min="-1" max="0.945526" rms="0.069647"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="The Dance" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="3469312">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b06.au" len="524288" min="-0.674957" max="0.693787" rms="0.096436"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000095.au" len="524288" min="-0.813354" max="0.66629" rms="0.119478"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000df5.au" len="524288" min="-0.600098" max="0.684723" rms="0.119664"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0000117.au" len="524288" min="-0.698242" max="0.87439" rms="0.119683"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000fcf.au" len="524288" min="-0.55835" max="0.553772" rms="0.113497"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e000092f.au" len="524288" min="-0.651428" max="0.603058" rms="0.110516"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0000c8f.au" len="323584" min="-1" max="0.945526" rms="0.069647"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

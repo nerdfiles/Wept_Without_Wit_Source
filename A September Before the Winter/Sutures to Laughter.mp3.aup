@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Sutures to Laughter.mp3_data" version="1.3.0" audacityversion="1.3.12-beta" sel0="0.0000000000" sel1="87.0748299320" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100">
+	<tags>
+		<tag name="id3v2" value="1"/>
+		<tag name="GENRE" value="Post-American Primitivism"/>
+		<tag name="ARTIST" value="Wept Without Wit"/>
+		<tag name="TITLE" value="Failing Faster"/>
+		<tag name="YEAR" value="2011"/>
+		<tag name="ALBUM" value="A September Before the Winter"/>
+	</tags>
+	<wavetrack name="Sutures to Laughter" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="3840000">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007e7.au" len="524288" min="-0.425232" max="0.376556" rms="0.033076"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e000070b.au" len="524288" min="-0.869934" max="0.817108" rms="0.08676"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000566.au" len="524288" min="-0.624298" max="0.565796" rms="0.087048"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0000d03.au" len="524288" min="-0.818542" max="0.772614" rms="0.121412"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e000018e.au" len="524288" min="-0.751862" max="0.711121" rms="0.129316"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e0000fac.au" len="524288" min="-0.945221" max="0.980133" rms="0.139585"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0000e3b.au" len="524288" min="-1" max="0.999969" rms="0.150771"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="e000088b.au" len="169984" min="-0.981232" max="0.999298" rms="0.096354"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Sutures to Laughter" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="3840000">
+				<waveblock start="0">
+					<simpleblockfile filename="e00007e7.au" len="524288" min="-0.425232" max="0.376556" rms="0.033076"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e000070b.au" len="524288" min="-0.869934" max="0.817108" rms="0.08676"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000566.au" len="524288" min="-0.624298" max="0.565796" rms="0.087048"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0000d03.au" len="524288" min="-0.818542" max="0.772614" rms="0.121412"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e000018e.au" len="524288" min="-0.751862" max="0.711121" rms="0.129316"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e0000fac.au" len="524288" min="-0.945221" max="0.980133" rms="0.139585"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0000e3b.au" len="524288" min="-1" max="0.999969" rms="0.150771"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="e000088b.au" len="169984" min="-0.981232" max="0.999298" rms="0.096354"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
