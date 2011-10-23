@@ -10,7 +10,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 # Albums
 
-1. Death Rites (October 2010)
+1. Death Rites (October 2010):
 
     When the world grew intolerant of those
     Who took to drink with the faint’st need for occasion,
