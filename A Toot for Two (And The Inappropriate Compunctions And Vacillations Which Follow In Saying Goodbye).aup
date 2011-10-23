@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="A Toot for Two (And The Inappropriate Compunctions And Vacillations Which Follow In Saying Goodbye)_data" version="1.3.0" audacityversion="1.3.12-beta" sel0="0.0000000000" sel1="72.8894784580" vpos="0" h="57.5356851332" zoom="48.7175914132" rate="44100">
+	<tags>
+		<tag name="id3v2" value="1"/>
+		<tag name="GENRE" value="Post-American Primitivism"/>
+		<tag name="ARTIST" value="Wept Without Wit"/>
+		<tag name="TITLE" value="Failing Faster"/>
+		<tag name="YEAR" value="2011"/>
+		<tag name="ALBUM" value="A September Before the Winter"/>
+	</tags>
+	<wavetrack name="10_21_11 Week 43 12_34 AM" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="3214426">
+				<waveblock start="0">
+					<simpleblockfile filename="e00005df.au" len="440103" min="-0.796997" max="0.783936" rms="0.070011"/>
+				</waveblock>
+				<waveblock start="440103">
+					<simpleblockfile filename="e0000125.au" len="524288" min="-0.58432" max="0.840698" rms="0.05276"/>
+				</waveblock>
+				<waveblock start="964391">
+					<simpleblockfile filename="e0000dc3.au" len="524288" min="-0.73111" max="0.705475" rms="0.094886"/>
+				</waveblock>
+				<waveblock start="1488679">
+					<simpleblockfile filename="e00005cc.au" len="524288" min="-0.199066" max="0.192505" rms="0.021686"/>
+				</waveblock>
+				<waveblock start="2012967">
+					<simpleblockfile filename="e0000ca1.au" len="524288" min="-0.701233" max="0.655365" rms="0.049742"/>
+				</waveblock>
+				<waveblock start="2537255">
+					<simpleblockfile filename="e0000842.au" len="338585" min="-0.481537" max="0.444885" rms="0.054312"/>
+				</waveblock>
+				<waveblock start="2875840">
+					<simpleblockfile filename="e0000670.au" len="338586" min="-0.71582" max="0.398285" rms="0.045682"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="10_21_11 Week 43 12_34 AM" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1" pan="0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="3214426">
+				<waveblock start="0">
+					<simpleblockfile filename="e00005df.au" len="440103" min="-0.796997" max="0.783936" rms="0.070011"/>
+				</waveblock>
+				<waveblock start="440103">
+					<simpleblockfile filename="e0000125.au" len="524288" min="-0.58432" max="0.840698" rms="0.05276"/>
+				</waveblock>
+				<waveblock start="964391">
+					<simpleblockfile filename="e0000dc3.au" len="524288" min="-0.73111" max="0.705475" rms="0.094886"/>
+				</waveblock>
+				<waveblock start="1488679">
+					<simpleblockfile filename="e00005cc.au" len="524288" min="-0.199066" max="0.192505" rms="0.021686"/>
+				</waveblock>
+				<waveblock start="2012967">
+					<simpleblockfile filename="e0000ca1.au" len="524288" min="-0.701233" max="0.655365" rms="0.049742"/>
+				</waveblock>
+				<waveblock start="2537255">
+					<simpleblockfile filename="e0000842.au" len="338585" min="-0.481537" max="0.444885" rms="0.054312"/>
+				</waveblock>
+				<waveblock start="2875840">
+					<simpleblockfile filename="e0000670.au" len="338586" min="-0.71582" max="0.398285" rms="0.045682"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
