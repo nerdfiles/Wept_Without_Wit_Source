@@ -10,13 +10,15 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 # Albums
 
-1. Death Rites (October 2010):
+1. Death Rites (October 2010)
 
-    When the world grew intolerant of those
-    Who took to drink with the faint’st need for occasion,
-    We and they return’d to our quarters and consummat’d
-    Our wills through the pleasures of intoxicat’d introspection
-    Under pallid shadow and the dimly bell
+    A poem: 
+
+        When the world grew intolerant of those
+        Who took to drink with the faint’st need for occasion,
+        We and they return’d to our quarters and consummat’d
+        Our wills through the pleasures of intoxicat’d introspection
+        Under pallid shadow and the dimly bell
 
 2. The Matters of Matter
 3. With Reflections Comes the Rent
