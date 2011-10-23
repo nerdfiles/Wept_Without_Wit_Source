@@ -12,7 +12,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 1. Death Rites (October 2010)
 
-    A poem: 
+    Fancy a poem?: 
 
         When the world grew intolerant of those
         Who took to drink with the faint’st need for occasion,
@@ -21,10 +21,43 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
         Under pallid shadow and the dimly bell
 
 2. The Matters of Matter
+
+	A poem:
+
+		The serendipitous, sporadic holidays 
+		Which teach nothing less than the beauty 
+		Of nothingness, 
+
+		And the lies which bind it so warmly.
+
 3. With Reflections Comes the Rent
+	
+	A poem:
+
+		Hearts of nebulae must pay rent too; 
+		but they shall dance; 
+		they shall.
+
 4. Languages
+	
+	A statement, but never a manifesto:
+
+	We author the structures of science fiction;
+	and We author nothing else.
+
 5. "Rough Draft"
+
+	The intersections and recapitulations of death and the romantic.
+
 6. A September Before the Winter (October 2011)
+
+	An album inspired by: 
+	 
+		death, 
+		restitution, 
+		unforgivable obduracy, 
+		the failure in human-projects, 
+		and John Cusack’s deep, middle-class eyes.
 
 # Instruments
 
