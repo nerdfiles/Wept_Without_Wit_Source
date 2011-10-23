@@ -1,6 +1,7 @@
 # == IGGY == #
 
 *
+.DS_Store
 !*.mp3
 !*.markdown
 !*.aup

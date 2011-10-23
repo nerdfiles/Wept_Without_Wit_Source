@@ -4,5 +4,5 @@
 !*.mp3
 !*.markdown
 !*.aup
-!/
+!/*
 
