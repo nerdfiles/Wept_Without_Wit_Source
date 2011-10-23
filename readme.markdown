@@ -42,8 +42,8 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 	
 	A statement, but never a manifesto:
 
-	We author the structures of science fiction;
-	and We author nothing else.
+		We author the structures of science fiction;
+		and We author nothing else.
 
 5. "Rough Draft"
 
