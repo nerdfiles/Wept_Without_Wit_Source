@@ -30,6 +30,10 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
     	2.28 Dishevel'd Procession
     	0.33 Sympathetic Symptomatic
 
+    Reference:
+
+    	1. https://github.com/nerdfiles/Wept_Without_Wit_Source/raw/master/Album%20Archive/Wept%20Without%20Wit%20-%20Death%20Rites%20(2010,%20~240VBR).zip
+
 2. The Matters of Matter
 
 	A poem:
@@ -45,6 +49,10 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 		1.41 Some Forgotten June
 		1.18 The Spectre of Worth
 
+	Reference:
+
+		1. https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20The%20Matters%20of%20Matter.zip
+
 3. With Reflections Comes the Rent
 	
 	A poem:
@@ -58,6 +66,10 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 		1.18 Weaving Wierd
 		1.29 Heart of the Orion Nebula
 
+	Reference:
+		
+		1. https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20With%20Reflection%20Comes%20the%20Rent.zip
+
 4. Languages
 	
 	A statement, but never a manifesto:
@@ -69,6 +81,10 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 		1.49 Freckl'd nose & the prickly rose 
 		1.45 A Weedy Florilegium
+
+	Reference: 
+
+		1. https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20Languages.zip
 
 5. "Rough Draft"
 
@@ -100,6 +116,10 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 		3.13 Unattractive People Can Dance Too
 		2.00 That such is possible.
 		1.12 A Toot for Two (And The Inappropriate Compunctions And Vacillations Which Follow In Saying Goodbye)
+
+	Reference:
+
+		1. https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/A%20September%20Before%20the%20Winter%20(mp3)/Archive.zip
 
 # Instruments
 
