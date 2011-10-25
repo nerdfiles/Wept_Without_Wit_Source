@@ -23,12 +23,12 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
     List:
 
     	2.18 Hatred Hallows the Marching Meek
-    	Fickle Child (Come On) Home
-    	Rustling Mammoths Know, Saints Tow
-    	Trees Become Tombstones for Themselves 
-    	Him Who Loved Us in the Home Found Lost
-    	Dishevel'd Procession
-    	Sympathetic Symptomatic
+    	2.04 Fickle Child (Come On) Home
+    	1.01 Rustling Mammoths Know, Saints Tow
+    	1.03 Trees Become Tombstones for Themselves 
+    	1.43 Him Who Loved Us in the Home Found Lost
+    	2.28 Dishevel'd Procession
+    	0.33 Sympathetic Symptomatic
 
 2. The Matters of Matter
 
