@@ -32,7 +32,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
     Reference:
 
-    	1. https://github.com/nerdfiles/Wept_Without_Wit_Source/raw/master/Album%20Archive/Wept%20Without%20Wit%20-%20Death%20Rites%20(2010,%20~240VBR).zip
+    	https://github.com/nerdfiles/Wept_Without_Wit_Source/raw/master/Album%20Archive/Wept%20Without%20Wit%20-%20Death%20Rites%20(2010,%20~240VBR).zip
 
 2. The Matters of Matter
 
@@ -51,7 +51,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 	Reference:
 
-		1. https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20The%20Matters%20of%20Matter.zip
+		https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20The%20Matters%20of%20Matter.zip
 
 3. With Reflections Comes the Rent
 	
@@ -68,7 +68,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 	Reference:
 		
-		1. https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20With%20Reflection%20Comes%20the%20Rent.zip
+		https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20With%20Reflection%20Comes%20the%20Rent.zip
 
 4. Languages
 	
@@ -84,7 +84,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 	Reference: 
 
-		1. https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20Languages.zip
+		https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20Languages.zip
 
 5. "Rough Draft"
 
@@ -119,7 +119,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 	Reference:
 
-		1. https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/A%20September%20Before%20the%20Winter%20(mp3)/Archive.zip
+		https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/A%20September%20Before%20the%20Winter%20(mp3)/Archive.zip
 
 # Instruments
 
