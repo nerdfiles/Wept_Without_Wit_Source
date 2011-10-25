@@ -83,6 +83,6 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 2. http://www.last.fm/music/Wept+Without+Wit
 3. http://soundcloud.com/nerdfiles
 
-“Logo”
+# “Logo”
 
 It’s not a logo. It’s a stolen crop of one of the feline angels in GY!BE’s “hammers of hope” illustration. I’m appropriating it as I believe there is a strong harmony in meaning between what the angels represent and that these sounds are hopes to expression.
