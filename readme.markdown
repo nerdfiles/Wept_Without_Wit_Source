@@ -40,6 +40,11 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 		And the lies which bind it so warmly.
 
+	List:
+		
+		1.41 Some Forgotten June
+		1.18 The Spectre of Worth
+
 3. With Reflections Comes the Rent
 	
 	A poem:
@@ -48,6 +53,11 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 		but they shall dance; 
 		they shall.
 
+	List:
+
+		1.18 Weaving Wierd
+		1.29 Heart of the Orion Nebula
+
 4. Languages
 	
 	A statement, but never a manifesto:
@@ -55,9 +65,19 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 		We author the structures of science fiction;
 		and We author nothing else.
 
+	List:
+
+		1.49 Freckl'd nose & the prickly rose 
+		1.45 A Weedy Florilegium
+
 5. "Rough Draft"
 
 	The intersections and recapitulations of death and the romantic.
+
+	List:
+
+		4.01 Black Bones 
+		1.41 The Terminal Haircuts of Silouhettes
 
 6. A September Before the Winter (October 2011)
 
@@ -68,6 +88,18 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 		unforgivable obduracy, 
 		the failure in human-projects, 
 		and John Cusack’s deep, middle-class eyes.
+
+	List:
+
+		1.27 Sutures to Laughter
+		1.12 Memorable Rememberers (Kafke Version. Fuck you, Max Richter — O what rooms Mothers must clean.)
+		1.12 Memorable Rememberers
+		1.26 The Afternoon (Touched)
+		3.05 Failing Faster (All These Rotten Teeth, the Eternal Recurrence of Bereavement and the Night Terrors)
+		1.18 The Dance
+		3.13 Unattractive People Can Dance Too
+		2.00 That such is possible.
+		1.12 A Toot for Two (And The Inappropriate Compunctions And Vacillations Which Follow In Saying Goodbye)
 
 # Instruments
 
