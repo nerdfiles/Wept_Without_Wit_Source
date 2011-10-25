@@ -20,7 +20,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
         Our wills through the pleasures of intoxicat’d introspection
         Under pallid shadow and the dimly bell
 
-    List:
+    A list:
 
     	2.18 Hatred Hallows the Marching Meek
     	2.04 Fickle Child (Come On) Home
@@ -40,7 +40,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 		And the lies which bind it so warmly.
 
-	List:
+	A list:
 		
 		1.41 Some Forgotten June
 		1.18 The Spectre of Worth
@@ -53,7 +53,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 		but they shall dance; 
 		they shall.
 
-	List:
+	A list:
 
 		1.18 Weaving Wierd
 		1.29 Heart of the Orion Nebula
@@ -65,7 +65,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 		We author the structures of science fiction;
 		and We author nothing else.
 
-	List:
+	A list:
 
 		1.49 Freckl'd nose & the prickly rose 
 		1.45 A Weedy Florilegium
@@ -74,7 +74,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 	The intersections and recapitulations of death and the romantic.
 
-	List:
+	A list:
 
 		4.01 Black Bones 
 		1.41 The Terminal Haircuts of Silouhettes
@@ -89,7 +89,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 		the failure in human-projects, 
 		and John Cusack’s deep, middle-class eyes.
 
-	List:
+	A list:
 
 		1.27 Sutures to Laughter
 		1.12 Memorable Rememberers (Kafke Version. Fuck you, Max Richter — O what rooms Mothers must clean.)
@@ -106,7 +106,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 1. Oscar Schmidt OE30
 2. Takemine GS330S
 3. Baby Taylor
-4. Alvarez 12-string
+4. Alvarez 12-string (departed)
 5. Golden Melody harmonicas
 6. Special 20 harmonicas
 
