@@ -21,9 +21,14 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
         Under pallid shadow and the dimly bell
 
     List:
-    
-    	Hatred Hallows the Marching Meek
+
+    	2.18 Hatred Hallows the Marching Meek
     	Fickle Child (Come On) Home
+    	Rustling Mammoths Know, Saints Tow
+    	Trees Become Tombstones for Themselves 
+    	Him Who Loved Us in the Home Found Lost
+    	Dishevel'd Procession
+    	Sympathetic Symptomatic
 
 2. The Matters of Matter
 
