@@ -13,6 +13,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 > In the same hour came forth fingers of a man's hand, and wrote over against the candlestick upon the plaister of the wall of the king's palace: and the king saw the part of the hand that wrote.
 
 > Then the king's countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another.
+
 > — Book of Daniel, 5:5-6
 
 # Albums
