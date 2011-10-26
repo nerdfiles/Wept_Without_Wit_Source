@@ -8,6 +8,13 @@ These are explorations into the externalization of a supposed homogeneous organi
 
 It is not enough to say "self-taught"; these are sonic transliterations of self to public, undergone seemingly tragic loss and the bankruptcy of post-analytic reasoning. I have no interest in the guitar as a philosophical, paradigmatic project, with its normative claims, language games, and 138 different nail shapes.
 
+# One's Repose
+
+> In the same hour came forth fingers of a man's hand, and wrote over against the candlestick upon the plaister of the wall of the king's palace: and the king saw the part of the hand that wrote.
+
+> Then the king's countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another.
+> — Book of Daniel, 5:5-6
+
 # Albums
 
 1. Death Rites (October 2010)
