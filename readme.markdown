@@ -26,7 +26,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 # Albums
 
-1. Death Rites (October 2010)
+1. _Death Rites_ (October 2010)
 
     Fancy a poem?: 
 
@@ -50,7 +50,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
     	https://github.com/nerdfiles/Wept_Without_Wit_Source/raw/master/Album%20Archive/Wept%20Without%20Wit%20-%20Death%20Rites%20(2010,%20~240VBR).zip
 
-2. The Matters of Matter
+2. _The Matters of Matter_
 
 	A poem:
 
@@ -69,7 +69,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 		https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20The%20Matters%20of%20Matter.zip
 
-3. With Reflections Comes the Rent
+3. _With Reflections Comes the Rent_
 	
 	A poem:
 
@@ -86,7 +86,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 		
 		https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20With%20Reflection%20Comes%20the%20Rent.zip
 
-4. Languages
+4. _Languages_
 	
 	A statement, but never a manifesto:
 
@@ -102,7 +102,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 		https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20Languages.zip
 
-5. "Rough Draft"
+5. _"Rough Draft"_
 
 	The intersections and recapitulations of death and the romantic.
 
@@ -111,7 +111,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 		4.01 Black Bones 
 		1.41 The Terminal Haircuts of Silouhettes
 
-6. A September Before the Winter (October 2011)
+6. _A September Before the Winter_ (October 2011)
 
 	An album inspired by: 
 	 
