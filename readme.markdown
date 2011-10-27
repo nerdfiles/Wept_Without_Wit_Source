@@ -1,3 +1,10 @@
+# A Prelude
+
+Thou hast remembered me, O God; neither hast thou forsaken them that seek Thee and love Thee.
+— Daniel (Daniel's Prelude to the Dreaming)
+
+# Personnel
+
 nerdfiles on various acoustic and electric guitars, harmonicas and possibly other instruments.
 
 # A Query
