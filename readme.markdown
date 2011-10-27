@@ -53,7 +53,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 		https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20The%20Matters%20of%20Matter.zip
 
-3. With Reflections Comes the Rent
+3. With Reflection Comes the Rent
 	
 	A poem:
 
