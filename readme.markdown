@@ -1,7 +1,8 @@
 # A Prelude
 
-Thou hast remembered me, O God; neither hast thou forsaken them that seek Thee and love Thee.
-— Daniel (Daniel's Prelude to the Dreaming)
+> Thou hast remembered me, O God; neither hast thou forsaken them that seek Thee and love Thee.
+
+> — Daniel (Daniel's Prelude to the Dreaming)
 
 # Personnel
 
@@ -11,7 +12,7 @@ nerdfiles on various acoustic and electric guitars, harmonicas and possibly othe
 
 These are explorations into the externalization of a supposed homogeneous organization of pheNOMonological, or being candid: pre-ontological experience, should the neologism be so repugnant to the mind. Supposing experience is intentionally structured, what might categorically dissimilar experiences, such as the linguistic experience and the physical experience; allowing that one perceives their vacuity in canonicalization. Bankruptcy follows at assuming the logical equivalence of the world as a totality of parts and language as a totality of canonical forms; where each presupposes a prior lexical representation. In that, to ask questions within such a supposed organization of experience, intentionally structured, what would its reverberation sound like?
 
-# A Response
+# A Confession
 
 It is not enough to say "self-taught"; these are sonic transliterations of self to public, undergone seemingly tragic loss and the bankruptcy of post-analytic reasoning. I have no interest in the guitar as a philosophical, paradigmatic project, with its normative claims, language games, and 138 different nail shapes.
 
