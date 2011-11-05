@@ -137,6 +137,19 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 		https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/A%20September%20Before%20the%20Winter%20(mp3)/Archive.zip
 
+7. _Tandem Brew_ (November 2011)
+
+    A quick workflow on recording an ablbum. A test for consistency.
+
+    A list:
+
+        2.28 What the punk knew
+        8.33 La stress et la drogue
+
+    Reference:
+
+        h
+
 # Instruments
 
 1. Oscar Schmidt OE30
@@ -154,6 +167,22 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 4. a Crate amp found in a closet.
 
 (Note: Try not to play at full volume. Eesh. I'm monitoring through Grados, so maybe you get it.)
+
+# Notes
+
+:(since no markdown syntax exists; and I prefer to be explicit)
+
+=def To Listen
+
+    : Music as a social experience.
+
+=def To Monitor
+
+    : Intentionally taking attention to a piece of music notwithstanding the influence of social experience in music listening. To explore the differentiation of sound quality and imminent variegration of sonic texture and elucidation through the manipulation of non-human variables, such as natural environment (which may exist socially as given to the concept of genre and music appropriateness), hardware and software specifications and configurations (equalization; the concept of color as expressed through mechanical operations of headphones, speaker sets, etc.), and so on.
+
+=def To Reference
+
+    : Assuming the establishment of a base headphone set, to prepare and prompt oneself for monitoring experiences. This is both a passive and active activity. Referencing is inherently a philosophical activity as its prerequisite is the identification of an indexical sound stage. From which music experience generally is metaphorically contextualized.
 
 # Sources
 
