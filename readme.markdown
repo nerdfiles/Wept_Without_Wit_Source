@@ -148,7 +148,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
     Reference:
 
-        h
+        https://github.com/nerdfiles/Wept_Without_Wit_Source/tree/master/Tandem%20Brew/EP%20(MP3,%20~320kbps)
 
 # Instruments
 
@@ -178,11 +178,17 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 =def To Monitor
 
-    : Intentionally taking attention to a piece of music notwithstanding the influence of social experience in music listening. To explore the differentiation of sound quality and imminent variegration of sonic texture and elucidation through the manipulation of non-human variables, such as natural environment (which may exist socially as given to the concept of genre and music appropriateness), hardware and software specifications and configurations (equalization; the concept of color as expressed through mechanical operations of headphones, speaker sets, etc.), and so on.
+    : Intentionally taking attention to a piece of music notwithstanding the influence of social experience in music 
+    : listening. To explore the differentiation of sound quality and imminent variegration of sonic texture and elucidation 
+    : through the manipulation of non-human variables, such as natural environment (which may exist socially as given to 
+    : the concept of genre and music appropriateness), hardware and software specifications and configurations (equalization; 
+    : the concept of color as expressed through mechanical operations of headphones, speaker sets, etc.), and so on.
 
 =def To Reference
 
-    : Assuming the establishment of a base headphone set, to prepare and prompt oneself for monitoring experiences. This is both a passive and active activity. Referencing is inherently a philosophical activity as its prerequisite is the identification of an indexical sound stage. From which music experience generally is metaphorically contextualized.
+    : Assuming the establishment of a base headphone set, to prepare and prompt oneself for monitoring experiences. This is 
+    : both a passive and active activity. Referencing is inherently a philosophical activity as its prerequisite is the 
+    : identification of an indexical sound stage. From which music experience generally is metaphorically contextualized.
 
 # Sources
 
