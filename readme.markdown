@@ -148,7 +148,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
     Reference:
 
-        https://github.com/nerdfiles/Wept_Without_Wit_Source/tree/master/Tandem%20Brew/EP%20(MP3,%20~320kbps)
+        https://github.com/nerdfiles/Wept_Without_Wit_Source/tree/master/Tandem%20Brew/EP%20(MP3,%20~320kbps).zip
 
 # Instruments
 
