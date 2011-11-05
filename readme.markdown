@@ -1,16 +1,32 @@
+# A Prelude
+
+> Thou hast remembered me, O God; neither hast thou forsaken them that seek Thee and love Thee.
+
+> — Daniel (Daniel's Prelude to the Dreaming)
+
+# Personnel
+
 nerdfiles on various acoustic and electric guitars, harmonicas and possibly other instruments.
 
 # A Query
 
 These are explorations into the externalization of a supposed homogeneous organization of pheNOMonological, or being candid: pre-ontological experience, should the neologism be so repugnant to the mind. Supposing experience is intentionally structured, what might categorically dissimilar experiences, such as the linguistic experience and the physical experience; allowing that one perceives their vacuity in canonicalization. Bankruptcy follows at assuming the logical equivalence of the world as a totality of parts and language as a totality of canonical forms; where each presupposes a prior lexical representation. In that, to ask questions within such a supposed organization of experience, intentionally structured, what would its reverberation sound like?
 
-# A Response
+# A Confession
 
 It is not enough to say "self-taught"; these are sonic transliterations of self to public, undergone seemingly tragic loss and the bankruptcy of post-analytic reasoning. I have no interest in the guitar as a philosophical, paradigmatic project, with its normative claims, language games, and 138 different nail shapes.
 
+# One's Repose
+
+> In the same hour came forth fingers of a man's hand, and wrote over against the candlestick upon the plaister of the wall of the king's palace: and the king saw the part of the hand that wrote.
+
+> Then the king's countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another.
+
+> — Book of Daniel, 5:5-6
+
 # Albums
 
-1. Death Rites (October 2010)
+1. _Death Rites_ (October 2010)
 
     Fancy a poem?: 
 
@@ -32,9 +48,9 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
     Reference:
 
-    	https://github.com/nerdfiles/Wept_Without_Wit_Source/raw/master/Album%20Archive/Wept%20Without%20Wit%20-%20Death%20Rites%20(2010,%20~240VBR).zip
+        https://github.com/nerdfiles/Wept_Without_Wit_Source/raw/master/Album%20Archive/Wept%20Without%20Wit%20-%20Death%20Rites%20(2010,%20~240VBR).zip
 
-2. The Matters of Matter
+2. _The Matters of Matter_
 
 	A poem:
 
@@ -52,8 +68,8 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 	Reference:
 
 		https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20The%20Matters%20of%20Matter.zip
-
-3. With Reflections Comes the Rent
+		
+3. _With Reflection Comes the Rent_
 	
 	A poem:
 
@@ -70,7 +86,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 		
 		https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20With%20Reflection%20Comes%20the%20Rent.zip
 
-4. Languages
+4. _Languages_
 	
 	A statement, but never a manifesto:
 
@@ -86,7 +102,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 
 		https://github.com/nerdfiles/Wept_Without_Wit_Source/blob/master/Album%20Archive/Wept%20Without%20Wit%20-%20Languages.zip
 
-5. "Rough Draft"
+5. _"Rough Draft"_
 
 	The intersections and recapitulations of death and the romantic.
 
@@ -95,7 +111,7 @@ It is not enough to say "self-taught"; these are sonic transliterations of self 
 		4.01 Black Bones 
 		1.41 The Terminal Haircuts of Silouhettes
 
-6. A September Before the Winter (October 2011)
+6. _A September Before the Winter_ (October 2011)
 
 	An album inspired by: 
 	 
