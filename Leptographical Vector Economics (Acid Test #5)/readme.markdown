@@ -1,3 +1,3 @@
 # LVE
 
-@notes Cover artist: Dakota W v S Garrott
+@notes Cover artist: Dakota W v S Garrett
