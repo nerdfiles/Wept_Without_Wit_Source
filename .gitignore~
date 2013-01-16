@@ -8,7 +8,9 @@
 !*.mp3
 !*.markdown
 !*.aup
+!*.au
 !*.jpg
+!*.png
 !*.zip
 !/
 !/*/
